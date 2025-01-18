@@ -1,7 +1,7 @@
 
 # 🌟 Landing Page Project
 
-Welcome to the **Landing Page Project**, a sleek, responsive, and modern website built using **Vite**, **JavaScript**, and **TailwindCSS**. 🚀
+Welcome to the **Landing Page Project**, a sleek and modern website built using **Vite**, **JavaScript**, and **TailwindCSS**. 🚀
 
 ---
 
